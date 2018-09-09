@@ -1,0 +1,48 @@
+body{
+  background-color: #ebeef4;
+}
+
+#wrapper{
+  width: 600px;
+  margin: auto;
+}
+
+/* #left, #right {
+  min-height: 300px;
+} */
+
+#left{
+  width: 30%;
+  float: left;
+  background-color: #f1f7b2
+}
+
+#right{
+  width: 70%;
+  float: right;
+  background-color: #abe8f2
+}
+
+#boxTitle{
+  text-align: center;
+  font-weight: bold;
+  border: solid 1px black;
+  padding: 5px;
+}
+
+#boxContent{
+  text-align: center;
+  border: solid 1px black;
+  border-top: none;
+  padding: 5px;
+}
+
+#sayHi{
+  text-align: right;
+}
+
+#listMessage{
+  height: 200px;
+  background-color: #e5c380;
+  margin-bottom: 5px;
+}
